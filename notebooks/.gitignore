@@ -1,4 +1,24 @@
+config.py
 API_keys.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
 .env
-_pycache_
-.ipnyb_checkpoints
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
